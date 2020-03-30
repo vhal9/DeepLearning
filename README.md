@@ -1,7 +1,7 @@
 # Deep Learning
 
 ## Resumo:
-  Este repositório contém algumas implementações de redes neurais para realizar tarefas especificas, como classificação de imagens e previsão de preço de algum produto.
+  Este repositório contém algumas implementações de redes neurais para realizar tarefas específicas, como classificação de imagens e previsão de preço de algum produto.
   
 ## Bibliotecas:
 #### Modelos
@@ -23,4 +23,11 @@
   - Modelos de Redes Neurais Artificiais
   - Modelos de Redes Neurais Convolucionais
   - Modelos de Redes Neurais Recorrentes
+  
+
+## Execução:
+  - clone este repositório.
+  - baixe a pasta data para o diretório raiz
+  - instale os pacotes necessários ```pip3 install -r requirements.txt```.
+  - suba o servidor de notebooks ```jupyter notebook```.
 
