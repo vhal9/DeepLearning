@@ -27,7 +27,7 @@
 
 ## Execução:
   - clone este repositório.
-  - baixe a pasta data para o diretório raiz
+  - baixe a pasta data para o diretório raiz: https://drive.google.com/open?id=14hKsAIcJf1TyT0jlFHELjtUVrCA9dpeE
   - instale os pacotes necessários ```pip3 install -r requirements.txt```.
   - suba o servidor de notebooks ```jupyter notebook```.
 
