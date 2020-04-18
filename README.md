@@ -1,7 +1,7 @@
 # Deep Learning
 
 ## Resumo:
-  Este repositório contém algumas implementações de redes neurais para realizar tarefas específicas, como classificação de imagens e previsão de preço de algum produto.
+  Este repositório contém algumas implementações de redes neurais para realizar tarefas específicas, como classificação, Previsão, Clusterização, Codificação e Redimensionamento.
   
 ## Bibliotecas:
 #### Modelos
@@ -16,6 +16,10 @@
 
   - Implementado exemplos de Redes Neurais Artificiais
   - Implementado exemplos de Redes Neurais Convolucionais
+  - Implementado exemplos de Redes Neurais Recorrentes
+  - Implementado exemplos de Mapas Auto Organizáveis
+  - Implementado exemplos de Boltzmann Machine
+  - Implementado exemplos de Autoencoders 
  
 ## Organização:
   O repositório está dividido em pastas, de modo que as pastas na raiz do repositório dividem as tarefas pelo modelo da rede neural utilizada. Abaixo a lista dos tipos das redes neurais:
@@ -23,6 +27,10 @@
   - Modelos de Redes Neurais Artificiais
   - Modelos de Redes Neurais Convolucionais
   - Modelos de Redes Neurais Recorrentes
+  - Modelos de Redes Neurais Recorrentes
+  - Modelos de Mapas Auto Organizáveis
+  - Modelos de Boltzmann Machine
+  - Modelos de Autoencoders 
   
 
 ## Execução:
