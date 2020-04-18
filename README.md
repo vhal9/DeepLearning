@@ -27,7 +27,6 @@
   - Modelos de Redes Neurais Artificiais
   - Modelos de Redes Neurais Convolucionais
   - Modelos de Redes Neurais Recorrentes
-  - Modelos de Redes Neurais Recorrentes
   - Modelos de Mapas Auto Organizáveis
   - Modelos de Boltzmann Machine
   - Modelos de Autoencoders 
